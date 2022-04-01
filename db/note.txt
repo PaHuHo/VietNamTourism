@@ -1,0 +1,1 @@
+Bỏ folder vietnametourism vào wamp64 để chạy php, chạy file sql để có dữ liệu
